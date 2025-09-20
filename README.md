@@ -1,2 +1,2 @@
 # At-thirty-a-man-should-be-able-to-think-for-himself.But-I-m-40.-40-
-我想创建一个团队，和我开发一个程序，可以认为我是无代码实战经验的产品经理，我需要两个人，一个精通ai训练，一个精通代码编写。我已经用claude写出一个基础框架。I want to create a team and develop a program with me. I can think of myself as a product manager with no practical experience in code. I need two people, one who is proficient in ai training and one who is proficient in code writing. I've written a basic fra
+我想创建一个团队，和我开发一个程序，可以认为我是无代码实战经验的产品经理，我需要两个人，一个精通ai训练，一个精通代码编写。我已经用claude写出一个基础框架。I want to create a team and develop a program with me. I can think of myself as a product manager with no practical experience in code. I need two people, one who is proficient in ai training and one who is proficient in code writing. I've written a basic framework in Claude.
